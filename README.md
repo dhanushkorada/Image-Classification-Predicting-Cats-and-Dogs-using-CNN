@@ -33,7 +33,7 @@ Ensure you have the following installed:
 - Keras
 - NumPy
 
-The Dataset can be found here: https://drive.google.com/file/d/1hurM76D-chgGUIQDhdcas_Fgvx7OSLvx/view?usp=sharing 
+The Dataset can be found [here](<https://drive.google.com/file/d/1hurM76D-chgGUIQDhdcas_Fgvx7OSLvx/view?usp=sharing>)
 
 You can install the required packages using pip:
 
@@ -49,3 +49,6 @@ This CNN image classification project demonstrates the application of deep learn
 
 ## License
 This project is licensed under the MIT License.
+
+## Acknowledgement
+The code in this project is adapted from DeepLearning Course on Udemy. You can find the original source [here](<https://www.udemy.com/course/deeplearning/?couponCode=ST21MT61124>).
