@@ -7,10 +7,7 @@ This project uses a Convolutional Neural Network (CNN) to classify images of cat
 - [Introduction](#introduction)
 - [Project Structure](#Project-Structure)
 - [Prerequisites](#Prerequisites)
-- [Data Preprocessing](#data-preprocessing)
-- [Building the CNN](#building-the-cnn)
-- [Training the CNN](#training-the-cnn)
-- [Making Predictions](#making-predictions)
+- [Execution](#Execution)
 - [Conclusion](#conclusion)
 - [License](#license)
 
@@ -43,6 +40,10 @@ You can install the required packages using pip:
 ```bash
 pip install tensorflow keras numpy
 ```
+## Execution
+
+Follow the notebook for training, building and validating the model
+
 ## Conclusion
 This CNN image classification project demonstrates the application of deep learning techniques for categorizing images. By leveraging CNNs, we can build powerful models capable of accurately classifying complex visual data.
 
